@@ -1,0 +1,13 @@
+Structure without pragma pack: 
+Anna - size=30
+Bolein - size=60
+40 - size=4
+22 - size=4
+Size of structure1: 100
+
+Structure with pragma pack: 
+Anna - size=30
+Bolein - size=60
+40 - size=4
+22 - size=4
+Size of structure2: 98
